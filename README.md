@@ -22,6 +22,14 @@ A list of external ontologies related to the ontologies being developed within t
 
 * [RealEstateCore - REC Ontology](https://github.com/RealEstateCore/rec) RealEstateCore is an open-source ontology for building-related data and applications. The model includes the ontology, an API specification and a message format. It cover all parts of a real estate for proptech use cases, not only devices and technical systems but also business and user activities.
 
+* [MM: Metrics Model](https://w3id.org/mm) by *[Hervé Pruvost](https://www.researchgate.net/profile/Herve-Pruvost)*: consists of a taxonomy and vocabularies about quantities, quantity kinds and key metrics e.g. KPIs (Key Performance Indicator) or KRIs (Key Risk Indicator) used by engineers in building design, HVAC and building automation.
+
+* [ESIM: Energy System Information Model](https://w3id.org/esim) by *[Pit Stenzel](https://www.researchgate.net/profile/Pit-Stenzel) and [Hervé Pruvost](https://www.researchgate.net/profile/Herve-Pruvost)*: decribes energy systems at both building and urban levels, including automation and control systems. It provides a functional, structural and physical description of energy systems into a metadata structure and allow for linking additional operational data.
+
+* [BAF: Building Automation Functions](https://w3id.org/baf) by *[Hervé Pruvost](https://www.researchgate.net/profile/Herve-Pruvost)*: catalogue of generic function blocs used by BACS (building automation and control systems) designers and provided as RDF/OWL graph incl. their types of I/O, dependencies and parameters.
+
+* [RISK: The Risk Ontology](https://w3id.org/risk) by *[Hervé Pruvost](https://www.researchgate.net/profile/Herve-Pruvost)*: formalizes concepts from the field of risk management applied in contruction and building operation for e.g. FDD (Fault Detection and Diagnosis), uncertainty-resilient processes or predictive maintenance. 
+
 * HVAC ontology
 
 * PROJECT ontology
